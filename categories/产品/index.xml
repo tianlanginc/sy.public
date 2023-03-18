@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>广州顺益医疗器械有限公司</title>
-    <link>https://gzsy.tianlang.fun/</link>
-    <description>Recent content on 广州顺益医疗器械有限公司</description>
+    <title>产品 on 广州顺益医疗器械有限公司</title>
+    <link>https://gzsy.tianlang.fun/categories/%E4%BA%A7%E5%93%81/</link>
+    <description>Recent content in 产品 on 广州顺益医疗器械有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 18 Feb 2023 13:50:46 +0200</lastBuildDate><atom:link href="https://gzsy.tianlang.fun/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Feb 2023 13:50:46 +0200</lastBuildDate><atom:link href="https://gzsy.tianlang.fun/categories/%E4%BA%A7%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>产品5</title>
       <link>https://gzsy.tianlang.fun/blog/2023/02/18/p5/</link>
@@ -60,25 +60,6 @@ Follow the following steps:
       <guid>https://gzsy.tianlang.fun/blog/2023/02/14/p1/</guid>
       <description>产品1 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://gzsy.tianlang.fun/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gzsy.tianlang.fun/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24/7.</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>https://gzsy.tianlang.fun/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://gzsy.tianlang.fun/about/</guid>
-      <description>2021 年成立！ </description>
     </item>
     
   </channel>
